@@ -1,0 +1,9 @@
+﻿namespace Verde_Stefan_Lab7;
+
+public partial class AppShell : Shell
+{
+	public AppShell()
+	{
+		InitializeComponent();
+	}
+}
